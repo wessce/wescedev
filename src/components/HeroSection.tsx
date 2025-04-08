@@ -27,7 +27,7 @@ const HeroSection = () => {
 
   return (
     <section className="relative h-screen flex items-center justify-center bg-hero-pattern">
-      <div className="absolute inset-0 bg-gradient-to-b from-midnight/40 to-midnight"></div>
+      <div className="absolute inset-0 bg-gradient-to-br from-midnight/90 via-accent1/20 to-darkblue/80 z-0"></div>
       
       <div className="container mx-auto px-4 z-10 text-center">
         <h1 
